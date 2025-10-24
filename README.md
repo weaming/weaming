@@ -6,6 +6,6 @@ Hi, I'm Garden Yuen, located in China.
 
 ---
 
-I'm a photographer too! ([Ins: AlienPhoto](https://www.instagram.com/alien.photo.world/))
+I'm a photographer too! ([Ins: AlienVision](https://www.instagram.com/alienvisionreal/))
 
 Email me garden.yuen@gmail.com
