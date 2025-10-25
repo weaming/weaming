@@ -1,8 +1,12 @@
-Hi, I'm Garden Yuen, located in China. 
+# Hi, 
+
+I'm Garden Yuen, located in China. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weaming&theme=tokyonight&hide=html,javascript,css)
 
 ## Time stat
+
+![grids](https://wakatime.com/share/@weaming/5a36db0b-a52f-4ce0-acc1-7fa37a10bcee.svg)
 
 ### Last 7 days
 
